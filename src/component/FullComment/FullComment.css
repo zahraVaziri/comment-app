@@ -1,0 +1,26 @@
+.fullcomment{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 600px;
+    height: 300px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: rgb(166, 166, 245);
+    color: rgb(67, 10, 121);
+}
+.button{
+    background-color: rgb(233, 193, 193);
+    color: rgb(255, 32, 32);
+    border: 1px solid red;
+    padding: 5px 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
